@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "testOnly": true,
+  "caseSensitive": true,
+  "users": [
+    {
+      "username": "test",
+      "enabled": true,
+      "role": "full",
+      "permissions": [
+        "*"
+      ],
+      "credentialVersion": 1
+    }
+  ]
+}
